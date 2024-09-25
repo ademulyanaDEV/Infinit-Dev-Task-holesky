@@ -1,0 +1,11 @@
+{
+  "uniswapV3Factory": "0x8b2491a728e074a40ab897a0d85b5f0b51cc53ac",
+  "nftDescriptor": "0x1e3411e815f11bdd0c50a66f6918e4241ef16a99",
+  "tickLens": "0x10791c65cb073ba4bc2dea73dd432e2a98626300",
+  "proxyAdmin": "0x5b86dd061b382736837e0ff4199276c869f5563d",
+  "quoterV2": "0xaa0ff555e6e79108566e4aa7f34174e485a6f363",
+  "nonfungibleTokenPositionDescriptorImpl": "0x01da297d1a658c6c385c157506491091af4bbcd7",
+  "nonfungibleTokenPositionDescriptor": "0x43752c7e7760c49e1d3a18264db06efe764aeecb",
+  "nonfungiblePositionManager": "0xb9c3ad2dab824053ac0d7f2dca8abcb7a182f5d9",
+  "swapRouter02": "0x09b6e568921940afa5691f9b39fa18365922ed10"
+}
